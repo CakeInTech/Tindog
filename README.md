@@ -2,7 +2,7 @@
 
 # Tindog
 
-> Tindog Is a site where you can find other dogs nearby you area, for this iste i used bootstrap for the site responsiveness, drop down menu, also with the slide animation, html, and css. .
+> 
 
 
 ## Built With
