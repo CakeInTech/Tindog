@@ -4,7 +4,12 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: 'Montserrat-bold', sans-serif;
   font-weight: bold;
 }
@@ -16,7 +21,7 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: "Montserrat-Black", sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -28,7 +33,7 @@ p {
 
 /* Containers */
 
-.container-fluid{
+.container-fluid {
   padding: 7% 15%;
 }
 
@@ -50,7 +55,7 @@ p {
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -61,7 +66,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Montserrat-Light", sans-serif;
 }
 
 /* Buttons */
@@ -131,7 +136,6 @@ p {
   margin: 20px;
 }
 
-
 #press {
   background-color: #ef8172;
   padding-bottom: 3%;
@@ -159,16 +163,13 @@ p {
 
 /* CTA Section */
 
-
 /* Footer Section */
-
 
 .social-icon {
   margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
-
   #title {
     text-align: center;
   }
